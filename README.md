@@ -1,0 +1,2 @@
+# ais
+Academic information system
